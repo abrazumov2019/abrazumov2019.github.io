@@ -1,2 +1,6 @@
-# Abrazumov Vitaly / Абразумов Виталий 
-# PHP - проммист
+# Abrazumov Vitaly
+
+Technical skills:
+
+Job summary:
+
